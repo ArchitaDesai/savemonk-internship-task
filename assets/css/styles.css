@@ -1,0 +1,88 @@
+body{
+	margin: 0px;
+	font-family: 'Lato', sans-serif;
+	color: rgb(0,0,0);
+	word-spacing: 1px;
+	font-size: 16px;
+}
+
+.navigation{
+	padding: 5px 10px;
+}
+
+.fa{
+	color: white;
+}
+
+.offer{
+	margin: 25px auto;
+	padding: 5px;
+	border: 1px solid rgba(160,160,160,0.2);
+	box-shadow: 0 10px 6px -6px rgb(140,140,140);
+	-webkit-box-shadow: 0 10px 6px -6px rgb(140,140,140);
+    -moz-box-shadow: 0 10px 6px -6px rgb(140,140,140);
+    
+}
+
+.shop-btn{
+	float: right;
+	background: rgba(225,0,0,0.9);
+	border-color: rgba(225,0,0,0.9);
+	margin-right: 10px;
+}
+
+.description{
+	margin-top: 7px;
+}
+
+.expiry{
+	font-size: 14px;
+	color: grey;
+}
+
+.cashback-offer{
+	margin-top: 10px;
+	font-size: 15px;
+}
+
+.prime-offer{
+	color: rgb(210,46,62);
+	text-align: right;
+}
+
+#stripe{
+	background: rgb(228,0,0);
+	font-size: 20px;
+	color: white;
+	padding: 15px 0px;
+}
+
+#amount{
+	background: rgba(15,0,5,0.3);
+	padding: 5px;
+	border-radius: 38%;
+	float: left;
+	margin-left: 27%;
+}
+
+#savemonk-img{
+	background: rgba(255,200,210,0.7);
+	margin: 18px -5px; 
+}
+
+
+#heading-stripe{
+	padding: 5px 0px;
+	margin-bottom: 15px;
+}
+
+#heading{
+	font-weight: 900;
+	font-size: 21px;
+}
+
+#all-view{
+	font-size: 17px;
+	float: right;
+	text-decoration: none;
+}
